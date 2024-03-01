@@ -1,0 +1,4 @@
+﻿  BankingSystemVer05.cpp
+C:\Users\SAMSUNG\Desktop\C++\C++실습12주차\C++실습12주차\BankingSystemVer05.cpp(37,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\C++\C++실습12주차\C++실습12주차\BankingSystemVer05.cpp(42,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C++실습12주차.vcxproj -> C:\Users\SAMSUNG\Desktop\C++\C++실습12주차\Debug\C++실습12주차.exe
